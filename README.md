@@ -6,7 +6,7 @@ An code panel made in HTML and JS. Plugins: Jquery, Bootstrap, Sweetalert
 - [Bootstrap](https://getbootstrap.com/)
 - [Jquery](https://jquery.com/)
 
-# Deomo
-Here is an quick showcase for this Project
+# Demo
+Here is an quick showcase for about this project.
 
 [Demo Here](https://demo.ovo-dev.com/codelock)
